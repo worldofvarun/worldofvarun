@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/worldofvarun/count.svg?"  />
-</div>
 
 ###
 
@@ -33,8 +30,5 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/worldofvarun/worldofvarun/output/snake.svg" alt="Snake animation" />
 
-###
